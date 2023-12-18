@@ -1,10 +1,9 @@
-# Google Cloud Platform TTS use API-KEY on Android.
+# This shows us how to use Google Cloud Platform TTS.
 
-## How to use it?
 
 ### Step 1: Download file 
 ```
-git clone https://github.com/changemyminds/Google-Cloud-TTS-Android.git
+git clone https://github.com/sword1202/tts_android.git
 ```
 ### Step 2: Set up API Key
 Go to [here](app/build.gradle) and change "YOUR_API_KEY" to your Google Cloud API Key. 
